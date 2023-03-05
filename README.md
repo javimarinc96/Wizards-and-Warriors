@@ -1,3 +1,4 @@
+![wizards-and-warriors](https://user-images.githubusercontent.com/44240533/222983812-ba248801-7d31-45e7-9e3f-604500cec825.svg)
 # Wizards and Warriors
 
 Welcome to Wizards and Warriors on Exercism's Java Track.
